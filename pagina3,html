@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>pagina 1</title>
+</head>
+<body>
+  <h1>pagina 1</h1>
+  <p>esta e a primeira pagin.</p>
+  <a href="pagina2.html">voltar para a pagina 2</a>
+  <br>
+  <a href="index.html">voltar para a pagina1</a>
+</body>
+</html>
